@@ -1,0 +1,284 @@
+{
+	"id": "6cd099ef-6cda-491b-86af-c1ecee3784ea",
+	"name": "B2CNAVI-TB",
+	"values": [
+		{
+			"key": "sdk-version",
+			"value": "v1.45",
+			"enabled": true
+		},
+		{
+			"key": "sdk-route",
+			"value": "/sdk/route",
+			"enabled": true
+		},
+		{
+			"key": "sdk-guide",
+			"value": "/sdk/guide",
+			"enabled": true
+		},
+		{
+			"key": "sdk-toll",
+			"value": "/sdk/toll",
+			"enabled": true
+		},
+		{
+			"key": "format",
+			"value": "json",
+			"enabled": true
+		},
+		{
+			"key": "processTime",
+			"value": 5000,
+			"enabled": true
+		},
+		{
+			"key": "proxy",
+			"value": "http://121.135.155.130:30060",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "osType",
+			"value": "android",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "device",
+			"value": "TEST",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "version",
+			"value": "1.2.3",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "osVersion",
+			"value": "8.0",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "appkey",
+			"value": "appkey",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "instanceId",
+			"value": "3f29443c-9ba1-463a-81bb-ed08c227c376",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "tokenId",
+			"value": "031281af-0424-4e02-8b74-333c42bcf380",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "session",
+			"value": "http://121.135.155.131:443",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "contractTimestamp",
+			"value": 1544158484528,
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "acceptedTerms",
+			"value": "[\"9\",\"7\",\"8\"]",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "timestamp",
+			"value": 1544610300388,
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "EX",
+			"value": 956534,
+			"enabled": true
+		},
+		{
+			"key": "EY",
+			"value": 1951866,
+			"enabled": true
+		},
+		{
+			"key": "SX",
+			"value": 953422,
+			"enabled": true
+		},
+		{
+			"key": "SY",
+			"value": 1950556,
+			"enabled": true
+		},
+		{
+			"key": "VX1",
+			"value": 953930,
+			"enabled": true
+		},
+		{
+			"key": "VX2",
+			"value": 954655,
+			"enabled": true
+		},
+		{
+			"key": "VX3",
+			"value": 955304,
+			"enabled": true
+		},
+		{
+			"key": "VY1",
+			"value": 1951159,
+			"enabled": true
+		},
+		{
+			"key": "VY2",
+			"value": 1951414,
+			"enabled": true
+		},
+		{
+			"key": "VY3",
+			"value": 1951437,
+			"enabled": true
+		},
+		{
+			"key": "서울역",
+			"value": "953422,1950556",
+			"enabled": true
+		},
+		{
+			"key": "동대문역사문화공원역",
+			"value": "956534,1951866",
+			"enabled": true
+		},
+		{
+			"key": "회현역",
+			"value": "953930,1951159",
+			"enabled": true
+		},
+		{
+			"key": "명동역",
+			"value": "954655,1951414",
+			"enabled": true
+		},
+		{
+			"key": "제주시청",
+			"value": "909992,1501311",
+			"enabled": true
+		},
+		{
+			"key": "남산1호터널혼잡통행료징수요금소",
+			"value": "907",
+			"enabled": true
+		},
+		{
+			"key": "익산TG",
+			"value": "156",
+			"enabled": true
+		},
+		{
+			"key": "남논산상TG",
+			"value": "618",
+			"enabled": true
+		},
+		{
+			"key": "풍세상TG",
+			"value": "602",
+			"enabled": true
+		},
+		{
+			"key": "남천안TG",
+			"value": "601",
+			"enabled": true
+		},
+		{
+			"key": "충무로역",
+			"value": "955304,1951437",
+			"enabled": true
+		},
+		{
+			"key": "lbsrpHost",
+			"value": "https://dev.gis.kt.com:10001",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "lbs-rp",
+			"value": "/lbs/rp",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "apiKey",
+			"value": "9886c37a33aca43c88541d669306b8fc431a710760ba0982c524eb30223ecbf657f880a9",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "link_ids",
+			"value": "5626270049033749;5626270049033752;5626270049033755;5626270049033754;5626270048996050;5626270048996046;5626270048996047;5626270048996039;5626270048996043;5626270048972394;5626270048972415;5626270048972416;5626270049018925;5626270049018926;5626270048848817;5626270048972418;5626270048972419;5626270048972421;5626270048972422;5626270048842228;5626270048983638;5626270048996710;5626270048996711;5626270048983623;5626270048983624;5626270048983625;5626270048968949;5626270048970066;5626270048972362;5626270048972363;5626270048837067;5626270048837068;5626270048990834;5626270048990835;5626270048972347;5626270048972348;5626270048970075;5626270048970076;5626270048827102;5626270048995689;5626270048995690;5626270048995686;5626270048994950;5626270049033461;5626270049033462;5626270048994943;5626270048983651;5626270048983652;5626270048983647;5626270048997964;5626270048997965;5626270049019264;5626270049019265;-5626270048848965;-5626270048970021;-5626270048970020;-5626270048851107;-5626270049018954;-5626270049018953;-5626270049018957;-5626270049018960;-5626270049018963;-5626270049018962;-5626270049018971;-5626270049018974;-5626270049018973;5626270049018983;5626270049018984;5626270049018989;5626270049018990;5627200048968191;5627200048946112;5627200048941910;5627200048941901;5627200048941906;5627200048941907;5627200048912024;5627200048912047;5627200048989933;5627200048946124;5627200048946125;5627200048972890;5627200048972891;5627200049015033;5627200049015039;5627200049015040;5627200048959643;5627200048982447;5627200048982448;5627200048971460;5627200048981997;5627200048981998;5627200048995691;5627200048995692;5627200049012896;5627200049012897",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2018-12-13T01:34:20.710Z",
+	"_postman_exported_using": "Postman/6.6.1"
+}
