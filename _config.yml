@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 
 title                    : "Project Gakka"
 description              : "Release Page for Project Gakka"
+github:
+  is_project_page: false
